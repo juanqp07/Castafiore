@@ -8,6 +8,7 @@
     },
     "homeSection": {
       "Week Activity": "Actividad semanal",
+      "Last queue": "Última cola",
       "Favorited Artist": "Artista favorito",
       "Genre": "Género",
       "Radio": "Radio",
@@ -17,7 +18,7 @@
       "Most Played": "Más reproducidos",
       "Recently Played": "Reproducidos recientemente",
       "Random": "Aleatorio",
-      "Highest": "Más alto"
+      "Highest": "Más valorados"
     },
     "settings": {
       "connect": {
@@ -65,7 +66,9 @@
         "Stream format Description": "Especifica el formato del flujo a reproducir.",
         "Max bitrate": "Tasa de bits máxima",
         "Max bitrate Description": "Especifica la tasa máxima en kilobits por segundo para el flujo a reproducir. Tasas más bajas consumen menos datos pero pueden reducir la calidad del audio.",
-        "Play seed first": "Reproducir primero la canción inicial"
+        "Play seed first": "Reproducir primero la canción inicial",
+        "Save last queue": "Guardar la última cola",
+        "Save last queue Description": "Guarda automáticamente la última cola reproducida. Puedes activar la sección 'Última cola' en la página de inicio para acceder a ella."
       },
       "theme": {
         "Player Theme": "Tema del reproductor"
@@ -110,7 +113,7 @@
     "Albums": "Álbumes",
     "Artist": "Artista",
     "Artists": "Artistas",
-    "Cache all songs": "Emmagatzema totes les cançons",
+    "Cache all songs": "Guardar todas las canciones en caché",
     "Cache": "Caché",
     "Cancel": "Cancelar",
     "Clear": "Limpiar",
@@ -122,10 +125,12 @@
     "Delete": "Eliminar",
     "Description": "Descripción",
     "Desktop": "Escritorio",
+    "Disable repeat queue": "Desactivar repetición de cola",
     "Disconnect": "Desconectar",
     "Download": "Descargar",
     "Edit playlist": "Editar lista",
     "Edit radio": "Editar radio",
+    "Enable repeat queue": "Activar repetición de cola",
     "Enter radio details": "Introduce los detalles de la radio",
     "Explore": "Explorar",
     "Favorited songs": "Canciones favoritas",
@@ -138,7 +143,7 @@
     "Home page url": "URL de la página de inicio",
     "Home": "Inicio",
     "Info": "Información",
-    "Informations": "Informaciones",
+    "Informations": "Información",
     "Language": "Idioma",
     "Loading lyrics...": "Cargando letras...",
     "Logs": "Registros",
@@ -149,6 +154,7 @@
     "No lyrics found": "No se encontraron letras",
     "No results": "Sin resultados",
     "Not connected": "No conectado",
+    "No UPNP/DLNA devices found on the network": "No se encontraron dispositivos UPNP/DLNA en la red",
     "Open home page": "Abrir página de inicio",
     "Open in Last.fm": "Abrir en Last.fm",
     "Open in MusicBrainz": "Abrir en MusicBrainz",
@@ -161,6 +167,7 @@
     "Playlist": "Lista",
     "Playlists": "Listas",
     "Public": "Público",
+    "Queue": "Cola",
     "Random Song": "Canción aleatoria",
     "Remove from queue": "Eliminar de la cola",
     "Remove radio": "Eliminar radio",
@@ -187,6 +194,17 @@
     "min": "min",
     "minutes": "minutos",
     "song": "canción",
-    "songs": "canciones"
+    "songs": "canciones",
+    "Scanning for devices...": "Buscando dispositivos...",
+    "Remote Devices": "Dispositivos remotos",
+    "Connected Device": "Dispositivo conectado",
+    "Connect to Chromecast device": "Conectar a dispositivo Chromecast",
+    "Connect to UPNP/DLNA device": "Conectar a dispositivo UPNP/DLNA",
+    "No Chromecast devices found or connection cancelled": "No se encontraron dispositivos Chromecast o se canceló la conexión",
+    "Error connecting to Chromecast": "Error al conectar con Chromecast",
+    "No UPNP/DLNA devices found": "No se encontraron dispositivos UPNP/DLNA",
+    "Error scanning for devices": "Error al buscar dispositivos",
+    "Stream music to compatible devices: Chromecast, UPNP/DLNA speakers, TVs, and media receivers.": "Transmite música a dispositivos compatibles: Chromecast, altavoces UPNP/DLNA, televisores y receptores multimedia.",
+    "Chromecast": "Chromecast"
   }
 }
